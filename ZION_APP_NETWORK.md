@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-infra-drift-detective/
-- 🔗 Related: [Zion AI Observability](https://ziontechgroup.com/zion-ai-observability/) · [Zion AI Chaos Engineer](https://ziontechgroup.com/zion-ai-chaos-engineer/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Drift Detector](https://ziontechgroup.com/zion-ai-drift-detector/) · [Zion AI Observability](https://ziontechgroup.com/zion-ai-observability/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
